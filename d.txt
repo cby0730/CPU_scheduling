@@ -1,0 +1,2 @@
+6 1
+ID     CPU Burst  Arrival Time   Priority

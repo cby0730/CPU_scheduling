@@ -1,0 +1,3 @@
+4 55555
+ID     CPU Burst  Arrival Time   Priority
+0 6 3 100
